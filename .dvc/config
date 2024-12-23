@@ -1,0 +1,8 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://dvc
+    endpointurl = https://16.78.151.201:9000
+    access_key_id = sR89Isb9XwC4ihOhLoLl
+    secret_access_key = olhnKpH38H10yU0UJaoEb2cRogNjzZy6wsCggn6J
+    ssl_verify = false
